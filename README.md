@@ -1,5 +1,7 @@
 # Notes:
 
+App with node with a basis use with yargs, colors and fileSystem (fs)
+
 ```
 Options:
       --help     Show help                                             [boolean]
